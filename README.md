@@ -1,3 +1,6 @@
+*** Jan 30,2020  - being used in the Rails App  DO NOT ARCHIVE OR DELETE ***
+======
+
 # ActiveRecordUnion
 
 [![Gem Version](https://badge.fury.io/rb/active_record_union.svg)](http://badge.fury.io/rb/active_record_union)
